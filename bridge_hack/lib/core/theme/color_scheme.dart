@@ -3,14 +3,14 @@ import 'package:flutter/material.dart';
 
 ColorScheme createColorScheme() {
   return ColorScheme.light(
-      primary: AppColors.blue40,
+      primary: AppColors.purple20,
       onPrimary: AppColors.whiteSurface,
-      secondary: AppColors.purple40,
+      secondary: AppColors.blue40,
       onSecondary: AppColors.whiteSurface,
       error: AppColors.redError,
       onError: AppColors.whiteMediumEmphashis,
-      background: AppColors.whiteSmoke,
+      background: AppColors.greybg,
       onBackground: AppColors.blackSurface,
-      surface: AppColors.whiteSmoke,
+      surface: AppColors.greybg,
       onSurface: AppColors.blackSurface);
 }

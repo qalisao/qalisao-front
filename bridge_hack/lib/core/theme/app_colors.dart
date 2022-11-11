@@ -7,10 +7,12 @@ abstract class AppColors {
   static const blue50 = Color(0xFF007AF0);
   static const blue10 = Color(0xFF002451);
 
+  static const purple20 = Color(0xFF630087);
   static const purple40 = Color(0xFFAB00E7);
   static const purple50 = Color(0xFFC02BFF);
   static const purple10 = Color(0xFF42005B);
 
+  static const greybg = Color(0xFFFAFAFA);
   static const grey40 = Color(0xFF696979);
   static const grey50 = Color(0xFF7A7B8E);
   static const grey10 = Color(0xFF24252E);
